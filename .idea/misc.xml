@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/thuc.nm/Desktop/AndroidArchitectures-master/app/src/main/res/layout/activity_mvc.xml" value="0.11666666666666667" />
+        <entry key="..\:/Users/thuc.nm/Desktop/AndroidArchitectures-master/app/src/main/res/layout/activity_mvvm.xml" value="0.10104166666666667" />
+        <entry key="..\:/Users/thuc.nm/Desktop/AndroidArchitectures-master/app/src/main/res/layout/row_layout.xml" value="0.11666666666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
